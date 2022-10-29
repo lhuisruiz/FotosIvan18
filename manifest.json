@@ -1,7 +1,7 @@
 {
-  "name": "Fotos",
-  "short_name": "Fotos",
-  "description": "Bienvenid@s Tus fotos.",
+  "name": "Mis Fotos",
+  "short_name": "Mis Fotos",
+  "description": "Mis Fotos.",
   "background_color": "#000",
   "theme_color": "#000",
   "orientation": "portrait",
